@@ -3,7 +3,7 @@ module github.com/imkonsowa/cloudsql
 go 1.19
 
 require (
-	cloud.google.com/go/cloudsqlconn v1.1.1
+	cloud.google.com/go/cloudsqlconn v1.2.1
 	github.com/jackc/pgx/v5 v5.2.0
 	gorm.io/gorm v1.24.3
 )
@@ -27,9 +27,9 @@ require (
 	golang.org/x/sys v0.0.0-20220728004956-3c1f35247d10 // indirect
 	golang.org/x/text v0.5.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
-	google.golang.org/api v0.106.0 // indirect
+	google.golang.org/api v0.109.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
-	google.golang.org/genproto v0.0.0-20230109162033-3c3c17ce83e6 // indirect
+	google.golang.org/genproto v0.0.0-20230209215440-0dfe4f8abfcc // indirect
 	google.golang.org/grpc v1.51.0 // indirect
 	google.golang.org/protobuf v1.28.1 // indirect
 )
