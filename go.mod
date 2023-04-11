@@ -5,7 +5,7 @@ go 1.19
 require (
 	cloud.google.com/go/cloudsqlconn v1.1.1
 	github.com/jackc/pgx/v5 v5.2.0
-	gorm.io/gorm v1.24.3
+	gorm.io/gorm v1.25.0
 )
 
 require (
@@ -19,7 +19,7 @@ require (
 	github.com/jackc/pgpassfile v1.0.0 // indirect
 	github.com/jackc/pgservicefile v0.0.0-20200714003250-2b9c44734f2b // indirect
 	github.com/jinzhu/inflection v1.0.0 // indirect
-	github.com/jinzhu/now v1.1.4 // indirect
+	github.com/jinzhu/now v1.1.5 // indirect
 	go.opencensus.io v0.24.0 // indirect
 	golang.org/x/crypto v0.0.0-20220926161630-eccd6366d1be // indirect
 	golang.org/x/net v0.0.0-20221014081412-f15817d10f9b // indirect
